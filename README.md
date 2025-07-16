@@ -55,14 +55,17 @@
 
 
 
+```
 SaaSquatch-Leads/
-├── app.py ← Main Streamlit interface
-├── company_scraper.py ← Scrapes website/email/logo/location
-├── email_writer.py ← Generates emails using Groq
-├── momentum_score.py ← Analyzes startup momentum signals
-├── utils.py ← CSV exporting
-├── requirements.txt ← Dependencies
-└── README.md ← You’re reading it
+├── app.py               ← Main Streamlit interface
+├── company_scraper.py   ← Scrapes website/email/logo/location
+├── email_writer.py      ← Generates emails using Groq
+├── momentum_score.py    ← Analyzes startup momentum signals
+├── utils.py             ← CSV exporting
+├── requirements.txt     ← Dependencies
+└── README.md            ← You’re reading it
+```
+
 
 
 ```bash
