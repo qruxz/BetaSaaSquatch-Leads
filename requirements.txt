@@ -1,0 +1,21 @@
+duckduckgo-search
+streamlit
+requests
+beautifulsoup4
+pandas
+openai
+vaderSentiment
+textblob
+duckduckgo-search
+ipwhois
+dotenv
+
+python -m textblob.download_corpora
+
+
+
+python -m venv env
+
+.\env\Scripts\activate
+
+streamlit run app.py
