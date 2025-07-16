@@ -53,7 +53,7 @@
 
 ## 🗂 Project Structure
 
-## 🗂 Project Structure
+
 
 SaaSquatch-Leads/
 ├── app.py ← Main Streamlit interface
@@ -64,11 +64,7 @@ SaaSquatch-Leads/
 ├── requirements.txt ← Dependencies
 └── README.md ← You’re reading it
 
-yaml
-Copy
-Edit
 
----
 
 ## ⚙️ Run Locally
 
@@ -100,7 +96,7 @@ This isn’t just automation — it’s smart intuition:
 
 🧠 All answered. In a few clicks.
 
-📬 Sample Output
+** 📬 Sample Output** 
 json
 Copy
 Edit
@@ -121,7 +117,7 @@ company_info.png
 emails.png
 to show output on GitHub
 
-🙌 Built For
+** 🙌 Built For** 
 Caprae Capital Internship Challenge 2025
 By [Your Name]
 Powered by Groq + NewsAPI + Streamlit + Free Web Intelligence
