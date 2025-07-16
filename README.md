@@ -107,75 +107,9 @@ This isn’t just automation — it’s smart intuition:
 }
 ```
 
----
 
-📸 **Screenshots (optional)**  
-Create a `/demo/` folder with:
-
-- `company_info.png`  
-- `emails.png`  
-
-to show output on GitHub.
-
----
 
 🙌 **Built For**  
 Caprae Capital Internship Challenge 2025  
-By _[Your Name]_  
+By _kamal_upadhyay_  
 Powered by **Groq + NewsAPI + Streamlit + Free Web Intelligence**
-
-## ⚙️ Run Locally
-
-```bash
-git clone https://github.com/yourusername/saasquatch-leads.git
-cd saasquatch-leads
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Add your API key(s)
-echo NEWSAPI_KEY=your_newsapi_key > .env
-
-# Launch the app
-streamlit run app.py
-💡 Why This Project?
-In fast-paced startup research or VC work, time = edge.
-The typical researcher opens 4–6 tabs and spends 10+ minutes per lead.
-
-With SaaSquatch Leads, everything — scraping, scoring, and messaging — happens in seconds.
-
-This isn’t just automation — it’s smart intuition:
-
-✅ Am I reaching out to the right company?
-
-📈 Are they growing? Hiring? Trending?
-
-✉️ What’s the best tone for a cold email?
-
-🧠 All answered. In a few clicks.
-
-** 📬 Sample Output** 
-json
-Copy
-Edit
-{
-  "name": "Figma",
-  "website": "https://figma.com",
-  "email": "contact@figma.com",
-  "location": "USA",
-  "linkedin": "https://linkedin.com/search/results/all/?keywords=Figma",
-  "momentum_score": 84,
-  "badge": "🟢 Surging"
-}
-📸 Screenshots (optional)
-Create a /demo/ folder with:
-
-company_info.png
-
-emails.png
-to show output on GitHub
-
-** 🙌 Built For** 
-Caprae Capital Internship Challenge 2025
-By [Your Name]
-Powered by Groq + NewsAPI + Streamlit + Free Web Intelligence
