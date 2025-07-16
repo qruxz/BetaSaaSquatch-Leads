@@ -41,21 +41,7 @@
 
 ## 🎥 SaaSquatch Leads – Live Demo (Caprae Challenge Submission)
 
-> Watch how the tool instantly scrapes company info, analyzes growth signals, and generates outreach emails with AI.
 
-[🔗 Click to watch the video](/demo/saasquatch-Lead-Tool Challenge.mp4)
-
-## 🎥 SaaSquatch Leads – Demo Video (Caprae Challenge)
-
-[![Watch the Demo](https://img.shields.io/badge/🎬%20Watch%20Demo-blue?style=for-the-badge)](https://files.catbox.moe/9943nm.mp4)
-
-See how the tool:
-- Instantly fetches website, email, location & logo
-- Scores startup momentum using signals like hiring & sentiment
-- Generates 3 cold outreach emails (Friendly, Professional, Casual)
-- Runs beautifully in a fast Streamlit UI
-
-⏱ Built solo in <5 hours for Caprae’s Venture Research Internship Challenge
 
 
 ## 🧠 Tech Stack
