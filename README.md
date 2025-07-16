@@ -69,11 +69,19 @@ SaaSquatch-Leads/
 git clone https://github.com/yourusername/saasquatch-leads.git
 cd saasquatch-leads
 
+#create python environment
+python -m venv env
+
+#activate environment
+.\env\Scripts\activate
+
 # Install dependencies
 pip install -r requirements.txt
 
+
 # Add your API key(s)
 echo NEWSAPI_KEY=your_newsapi_key > .env
+
 
 # Launch the app
 streamlit run app.py
