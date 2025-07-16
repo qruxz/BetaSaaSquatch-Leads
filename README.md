@@ -43,7 +43,7 @@
 
 > Watch how the tool instantly scrapes company info, analyzes growth signals, and generates outreach emails with AI.
 
-[🔗 Click to watch the video](saasquatch-Lead-Tool Challenge.mp4)
+[🔗 Click to watch the video](/demo/saasquatch-Lead-Tool Challenge.mp4)
 
 
 ## 🧠 Tech Stack
