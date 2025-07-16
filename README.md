@@ -40,6 +40,7 @@
 ---
 
 ## 🎥 SaaSquatch Leads – Live Demo (Caprae Challenge Submission)
+[![Watch Demo](demo/frontpage.png)](demo/saasquatch-Lead-Tool Challenge.mp4)
 
 
 
